@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/another-component/static/js/main.dce3b2fa.js",
+    "index.html": "/another-component/index.html",
+    "main.dce3b2fa.js.map": "/another-component/static/js/main.dce3b2fa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dce3b2fa.js"
+  ]
+}
